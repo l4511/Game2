@@ -13,7 +13,7 @@ class Dot:  # class dot
         return f"({self.x}, {self.y})"
 
 
-class BoardException(Exception):  # ?
+class BoardException(Exception):  
     pass
 
 
